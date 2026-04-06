@@ -7,17 +7,17 @@
   <strong>Figure2: EVCS(Figure 36)</strong><br>
   <img src="assets/Figure36_Long.png" alt="Figure 36" width="75%">
 </p>
+<p align="center">
+  <strong>Figure3: shared-trunk multi-head ablation</strong><br>
+  <img src="assets/same_number_p.png" alt="Figure 36" width="75%">
+</p>
 
 <p align="center">
-  <strong>Figure3: parameter-matched comparison</strong><br>
+  <strong>Figure4: parameter-matched comparison</strong><br>
   <img src="assets/multi-head.png" alt="Figure 36" width="75%">
 </p>
 
 
-<p align="center">
-  <strong>Figure4: shared-trunk multi-head ablation</strong><br>
-  <img src="assets/same_number_p.png" alt="Figure 36" width="75%">
-</p>
 
 
 <p align="center">
