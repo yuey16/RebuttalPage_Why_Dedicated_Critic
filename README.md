@@ -7,7 +7,6 @@
   <strong>Figure 2: EVCS (Figure 36 in the Submitted Manuscript)</strong><br>
   <img src="assets/Figure36_Long.png" alt="Figure 36" width="75%">
 </p>
-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Additional Experiments for Follow-up Questions After the Initial Rebuttal** 
 <p align="center">
