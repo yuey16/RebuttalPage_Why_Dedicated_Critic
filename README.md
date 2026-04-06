@@ -4,10 +4,12 @@
 </p>
 
 <p align="center">
-  <strong>Figure 2: EVCS (Figure 36)</strong><br>
+  <strong>Figure 2: EVCS (Figure 36 in the Submitted Manuscript)</strong><br>
   <img src="assets/Figure36_Long.png" alt="Figure 36" width="75%">
 </p>
+------------------------------------------------------------------------------------------------------------------------------------------
 
+## **Additional Experiments for Follow-up Questions After the Initial Rebuttal** 
 <p align="center">
   <strong>Figure 3: Parameter-matched Comparison</strong><br>
   <img src="assets/same_number_p.png" alt="Figure 36" width="75%">
@@ -25,7 +27,7 @@
 
 <p align="center">
   <strong>Figure 6: Proxy Gradient Alignment </strong><br>
-  <img src="assets/Grandients_Alignment.png" alt="Figure 36" width="75%">
+  <img src="assets/Grandients_Alignment.png" alt="Figure 36" width="55%">
 </p>
 
 <p align="center">
