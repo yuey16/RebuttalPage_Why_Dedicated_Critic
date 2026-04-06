@@ -9,8 +9,14 @@
 </p>
 
 <p align="center">
-  <strong>Figure4: shared-trunk multi-head ablation</strong><br>
+  <strong>Figure3: parameter-matched comparison</strong><br>
   <img src="assets/multi-head.png" alt="Figure 36" width="75%">
+</p>
+
+
+<p align="center">
+  <strong>Figure4: shared-trunk multi-head ablation</strong><br>
+  <img src="assets/same_number_p.png" alt="Figure 36" width="75%">
 </p>
 
 
